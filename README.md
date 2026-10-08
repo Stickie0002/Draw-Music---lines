@@ -19,8 +19,13 @@ Do i look like an idiot? of course no payments......
 
 # How do i enter the website?
 
-stickdudesmusicdraw.com
+https://stickie0002.github.io/Draw-Music---lines/
 
 # Thanks!
 
 You're welcome :) ENJOY
+
+# UPDATE 1:
+
+Added some more features
+Not working AI Paint ( I tried to make it working but didnt work :[ i will fix it sometime)
