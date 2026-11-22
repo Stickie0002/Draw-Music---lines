@@ -29,3 +29,7 @@ You're welcome :) ENJOY
 
 Added some more features
 Not working AI Paint ( I tried to make it working but didnt work :[ i will fix it sometime)
+
+# ARE YOU ADDING AI SLOP?
+
+Nope, i dont support ai, but i add it for those users that are "obsessed" with AI -_- (i hate AI)
